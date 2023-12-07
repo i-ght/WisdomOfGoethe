@@ -1,6 +1,7 @@
- ![aztec sun](img/0.png)
- # WISE WORDS OF GOETHE
- ## (From "[Conversations with Goethe](https://www.google.com/books/edition/Conversations_with_Goethe_in_the_Last_Ye/pN1M2653ViAC?hl=en&gbpv=0)")
+![aztec sun](img/0.png)
+# WISE WORDS OF GOETHE
+## (From "[Conversations with Goethe](https://www.google.com/books/edition/Conversations_with_Goethe_in_the_Last_Ye/pN1M2653ViAC?hl=en&gbpv=0)")
+
 - "No one can tell how things may draw and turn."
 - "You will find yourself perfectly competent when you have once entered on the employment; it will be very easy to you."
 - "May I find you in that state of tranquil activity, from which, after all, the most comprehensive views of the world, and the most valuable experiences, are evolved. Farewell. You must give me the pleasure of a prolonged and more intimate acquaintance."
@@ -199,14 +200,14 @@
 - "The great, the wise, are always in a minority. There have been ministers who were obliged to carry through their great plans with both king and people against them. Let us not dream that Reason can ever be popular. Passions, emotions, may be made popular; but Reason remains ever the property of an elect few."
 - "The plant goes from knot to knot, closing at last with the flower and the seed. So the tape-worm, the caterpillar, goes from knot to knot, and closes with the head. Man and the higher animals are built up through the vertebræ, the powers being concentrated in the head.
 
-  With corporations it is the same as with individuals. The bees form a similar scale of individuals, closing and perfected in their king. How this is. managed is a mystery, hard to be expressed in words, but I may say that I have my thoughts upon it.
+  With corporations it is the same as with individuals. The bees form a similar scale of individuals, closing and perfected in their king. How this is managed is a mystery, hard to be expressed in words, but I may say that I have my thoughts upon it.
 
   Thus does a nation bring forth its hero, who stands at the head, like a demigod, to protect and save. Thus were the poetic powers of the French concentrated in Voltaire. Such heads of a nation are always great in the generation for which they work. Many have enduring life; but the majority are succeeded by others, and forgotten by after times."
 - "It is not enough to have talent: to be wise, great connections are also needed, that one may see how the cards of the time are played, and even assist oneself in winning or losing."
 - "But Nature understands no joke; she is always true, earnest, and severe; she is always right, and all failing and error must belong to man. She disdains the inadequate; only to the adequate, true, and genuine will she reveal her mysteries."
 - "The Understanding can never scale such heights. Man must rise through the highest Reason, to approach the Divinity which manifests itself in the primitive phenomena, (Urphänomenen,) physical and moral, behind which it dwells, and which proceed from it.
 
-  ivinity works in the living, and not in the dead; in the becoming and changing, not in the become and changed. Therefore Reason, aspiring to the Divine, deals with the becoming, the living; but Understanding with the become, the already stiffened, which it can apply to use."
+  Divinity works in the living, and not in the dead; in the becoming and changing, not in the become and changed. Therefore Reason, aspiring to the Divine, deals with the becoming, the living; but Understanding with the become, the already stiffened, which it can apply to use."
 - "This philosophy (Indian) has, if we may believe what the English tell us, nothing foreign, but rather repeats the epochs through which we all pass. While we are children, we are Sensualists; Idealists when we love, and attribute to the beloved object qualities which she does not possess. Love wavers; we doubt her fidelity, and are Skeptics before we think of it. The rest of life is indifferent; we let it go as it will, and end, like the Indian philosophers, with Quietism."
 - I have found, among my papers, a leaf, in which I call architecture frozen music. There is something in the remark; the influence that flows upon us from architecture is like that from music.
 
@@ -320,5 +321,5 @@ Bear him to cordial welcome there.
 - "I hate all bungling, like sin; but, most of all, bungling in state affairs, which produces nothing but mischief to thousands and millions."
 - "You know that I, generally speaking, care little what is written about me; but it comes to my ears, and I know well that, in the eyes of certain people, all my life-long toils and labors are as nothing, merely because I have disdained to mingle in party squabbles about politics. To please such people I must have become a member of a Jacobin club, preaching up bloodshed and murder; but not a word more upon this subject, lest I show myself unwise in railing against folly."
 - "Watch well and you will see the politician devour the poet. To be a member of the Estates, and live amid perpetual jostlings and excite- ments, is not the life for a poet. His song will cease soon, and that is in some sort to be lamented"
-
+</span>
 🦓
