@@ -1,4 +1,5 @@
-![aztec sun](img/0.png)
+![aztec sun](img/0.png)\
+
 # WISE WORDS OF GOETHE
 ## (From "[Conversations with Goethe](https://www.google.com/books/edition/Conversations_with_Goethe_in_the_Last_Ye/pN1M2653ViAC?hl=en&gbpv=0)")
 
