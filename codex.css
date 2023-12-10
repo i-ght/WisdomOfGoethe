@@ -1,0 +1,27 @@
+.twine {
+  width: 89vw;
+  height: 89vh;
+  display: flex;
+}
+
+.light {
+  flex: 2;
+}
+
+.dark {
+  flex: 1;
+}
+
+.track {
+  animation: marquee 3000s linear infinite;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+    transform: translateY(100%);
+  }
+}
