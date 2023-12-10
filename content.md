@@ -1,4 +1,4 @@
-![aztec sun](img/0.png)\
+![aztec sun](img/0.png)
 
 # WISE WORDS OF GOETHE
 ## (From "[Conversations with Goethe](https://www.google.com/books/edition/Conversations_with_Goethe_in_the_Last_Ye/pN1M2653ViAC?hl=en&gbpv=0)")
@@ -321,6 +321,6 @@ Bear him to cordial welcome there.
 - "And what, then, is meant by love of one's country? what is meant by patriotic deeds? If the poet has employed a life in battling with pernicious prejudices, in setting aside narrow views, in enlightening the intellects, purifying the tastes, ennobling the feelings and thoughts of his countrymen, what better could he have done? how showed himself more truly a patriot?"
 - "I hate all bungling, like sin; but, most of all, bungling in state affairs, which produces nothing but mischief to thousands and millions."
 - "You know that I, generally speaking, care little what is written about me; but it comes to my ears, and I know well that, in the eyes of certain people, all my life-long toils and labors are as nothing, merely because I have disdained to mingle in party squabbles about politics. To please such people I must have become a member of a Jacobin club, preaching up bloodshed and murder; but not a word more upon this subject, lest I show myself unwise in railing against folly."
-- "Watch well and you will see the politician devour the poet. To be a member of the Estates, and live amid perpetual jostlings and excitements, is not the life for a poet. His song will cease soon, and that is in some sort to be lamented"
+- "Watch well and you will see the politician devour the poet. To be a member of the Estates, and live amid perpetual jostlings and excitements, is not the life for a poet. His song will cease soon, and that is in some sort to be lamented."
 
 🦓

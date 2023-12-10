@@ -9,6 +9,6 @@ BODY
   </body>
 </html>'
 
-B=$(pandoc -f markdown-auto_identifiers content.md)
+B=$(pandoc -f markdown-auto_identifiers-implicit_figures content.md)
 
 echo "${A/BODY/$B}" > index.html
