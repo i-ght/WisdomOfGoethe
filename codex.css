@@ -1,6 +1,6 @@
 .twine {
-  width: 89vw;
-  height: 89vh;
+  width: 99vw;
+  height: 99vh;
   display: flex;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .track {
-  animation: marquee 3000s linear infinite;
+  animation: marquee 3300s linear infinite;
 }
 
 @keyframes marquee {
