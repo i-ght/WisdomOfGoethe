@@ -7,7 +7,7 @@ div {
 }
 
  */
- 
+
 .twine {
   width: 96vw;
   display: flex;
@@ -29,10 +29,12 @@ div {
 
 :root {
   --marquee_duration: 99s;
+  --marquee_play_state: running;
+} 
+
+.track {
+  animation: var(--marquee_duration) linear infinite var(--marquee_play_state) marquee;
 }
-
-
-.track { animation: var(--marquee_duration) linear infinite marquee; }
 
 @keyframes marquee {
   from {
