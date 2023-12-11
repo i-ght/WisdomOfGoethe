@@ -1,20 +1,38 @@
+/* * {
+  outline: 1px solid blue;
+}
+
+div {
+  outline: 1px solid red;
+}
+
+ */
+ 
 .twine {
-  width: 99vw;
-  height: 99vh;
+  width: 96vw;
   display: flex;
 }
 
 .light {
   flex: 2;
+
+
 }
 
 .dark {
   flex: 1;
+  overflow: auto;
+  height: 100vh;
+  position: sticky;
+  top: 0;
 }
 
-.track {
-  animation: marquee 3300s linear infinite;
+:root {
+  --marquee_duration: 99s;
 }
+
+
+.track { animation: var(--marquee_duration) linear infinite marquee; }
 
 @keyframes marquee {
   from {
@@ -22,6 +40,6 @@
   }
 
   to {
-    transform: translateY(100%);
+    transform: translateY(100vh);
   }
 }
