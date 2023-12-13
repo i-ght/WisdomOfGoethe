@@ -5,9 +5,7 @@
 div {
   outline: 1px solid red;
 }
-
  */
-
 .twine {
   width: 96vw;
   display: flex;
@@ -15,8 +13,6 @@ div {
 
 .light {
   flex: 2;
-
-
 }
 
 .dark {
@@ -27,21 +23,16 @@ div {
   top: 0;
 }
 
-:root {
-  --marquee_duration: 99s;
-  --marquee_play_state: running;
-} 
-
-.track {
-  animation: var(--marquee_duration) linear infinite var(--marquee_play_state) marquee;
+.reflector {
+  opacity: 0;
+  animation: fadeInOut 18s infinite alternate;
 }
 
-@keyframes marquee {
-  from {
-    transform: translateY(-100%);
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0;
   }
-
-  to {
-    transform: translateY(100vh);
+  50% {
+    opacity: 1;
   }
 }
