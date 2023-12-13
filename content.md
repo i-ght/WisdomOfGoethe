@@ -260,7 +260,7 @@
 - "It has been maintained that the world is governed by pay; this I know, by examining the distribution of pay, we can find out whether it is well or ill governed."
 - "Napoleon gives us a warning how dangerous it is to rise into the region of the absolute, and sacrifice all to the carrying out of an idea."
 - "The obstinacy of the individual, and the power possessed by man of shaking off what does not suit him, is to me a proof that some such thing (Entelecheia) exists."
-- " I have been wise enough to stop short in mid career while I had yet many things in my mind to say. Thus it will be much easier to me to join on again, than if I had continued to write till I came to a stand."
+- "I have been wise enough to stop short in mid career while I had yet many things in my mind to say. Thus it will be much easier to me to join on again, than if I had continued to write till I came to a stand."
 - "It is not good for man to be alone. He needs sympathy and suggestion to do any thing well."
 - "You see there the spring time of a beautiful mind."
 - "The most important thing is to learn to rule oneself. If I gave way to my impulses, I have such as might ruin me and all about me."

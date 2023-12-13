@@ -5,8 +5,15 @@ function getQuotes() {
     const lis = htmlQuotes.getElementsByTagName("li");
     const quotes = [];
     for (const li of lis) {
-        const p = li.getElementsByTagName("p")[0];
-        quotes.push(p.textContent);
+        const ps = li.getElementsByTagName("p");
+        const psHtml = [];
+        if (ps.length > 2) {
+            console.log("got one");
+        }
+        for (const p of ps) {
+            psHtml.push(`<p>${p.innerHTML}</p>`)
+        }
+        quotes.push(psHtml);
     }
     return quotes;
 }
@@ -20,7 +27,7 @@ function shuffleArray(array) {
 }
 
 function construct3QuotesHtmlList(one, two, three) {
-    return `<ul><li><p>${one}</p></li><li><p>${two}</p></li><li><p>${three}</p></li></ul>`
+    return `<ul><li>${one.join("")}</li><li>${two.join("")}</li><li>${three.join("")}</li></ul>`
 }
 
 function dequeueThreeQuotes(quotes) {
@@ -34,7 +41,8 @@ function dequeueThreeQuotes(quotes) {
 function changeReflectorContents(quotes) {
     const [one, two, three] = dequeueThreeQuotes(quotes);
     const reflector = document.getElementById("reflector");
-    reflector.innerHTML = construct3QuotesHtmlList(one, two, three);
+    const html = construct3QuotesHtmlList(one, two, three);
+    reflector.innerHTML = html;
 }
 
 function initReflector(quotes) {
