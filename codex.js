@@ -20,7 +20,7 @@ function shuffleArray(array) {
 }
 
 function construct3QuotesHtmlList(one, two, three) {
-    return `<ul><li>${one}</li><li>${two}</li><li>${three}</li></ul>`
+    return `<ul><li><p>${one}</p></li><li><p>${two}</p></li><li><p>${three}</p></li></ul>`
 }
 
 function dequeueThreeQuotes(quotes) {
@@ -52,7 +52,6 @@ function initReflector(quotes) {
 document.addEventListener("DOMContentLoaded", () => {
     const quotes = getQuotes();
     shuffleArray(quotes);
-    
     initReflector(quotes);
     changeReflectorContents(quotes);
 });
