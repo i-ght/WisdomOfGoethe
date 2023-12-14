@@ -7,9 +7,6 @@ function getQuotes() {
     for (const li of lis) {
         const ps = li.getElementsByTagName("p");
         const psHtml = [];
-        if (ps.length > 2) {
-            console.log("got one");
-        }
         for (const p of ps) {
             psHtml.push(`<p>${p.innerHTML}</p>`)
         }

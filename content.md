@@ -115,7 +115,7 @@
 - "He who does not expect a million readers had best never write a line."
 - "Let the poet, seize the Particular, and, if he uses it well, he cannot fail therein to represent the Universal."
 - "I could never have fully comprehended how paltry men are, and how little they care for high aims, if I had not had such opportunity to test them - in the course of my scientific researches. Now, I saw that most men only care for science in so far as they can get a living by it, and that they are ready to worship any error which they find profitable for this object."
-- "Many are full of intellect and knowledge, but they are also full of vanity; and, in their desire to shine before the short-sighted multitude, they forget all shame, all delicacy - nothing is sacred to them"
+- "Many are full of intellect and knowledge, but they are also full of vanity; and, in their desire to shine before the short-sighted multitude, they forget all shame, all delicacy - nothing is sacred to them."
 - "What know we at last, and how far can we go with all our fine wit?"
 - "Man is not born to solve the problem of the universe, but to find out with what it has to do, and then restrain himself within the limits of his power of comprehension.
 
