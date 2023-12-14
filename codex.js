@@ -1,5 +1,3 @@
-let phase = "running";
-
 function getQuotes() {
     const htmlQuotes = document.getElementById("quotes");
     const lis = htmlQuotes.getElementsByTagName("li");
