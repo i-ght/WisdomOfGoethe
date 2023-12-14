@@ -37,8 +37,9 @@ function dequeueThreeQuotes(quotes) {
 
 function changeReflectorContents(quotes) {
     const [one, two, three] = dequeueThreeQuotes(quotes);
-    const reflector = document.getElementById("reflector");
     const html = construct3QuotesHtmlList(one, two, three);
+
+    const reflector = document.getElementById("reflector");
     reflector.innerHTML = html;
 }
 

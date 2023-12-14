@@ -1,13 +1,5 @@
-/* * {
-  outline: 1px solid blue;
-}
-
-div {
-  outline: 1px solid red;
-}
- */
 .twine {
-  width: 96vw;
+  width: 99vw;
   display: flex;
 }
 
@@ -21,6 +13,8 @@ div {
   height: 100vh;
   position: sticky;
   top: 0;
+  padding-right: 20px;
+  scrollbar-width: thin;
 }
 
 .reflector {
